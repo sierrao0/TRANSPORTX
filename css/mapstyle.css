@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.mapdiv{
+    width: 50%;
+    margin: auto;
+
+}
+.mapdiv path{
+    fill: #34ff8f;
+    stroke: #181818;
+    stroke-width: 2px;
+}
